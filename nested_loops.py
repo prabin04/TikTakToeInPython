@@ -1,4 +1,4 @@
-#Loops to print tiktaktoe fields
+#Loops to print tiktaktoe fields in Python
 
 # | | 0
 #-----1 
